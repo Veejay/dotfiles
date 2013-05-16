@@ -1,0 +1,20 @@
+[core]
+  editor = /usr/bin/vim
+[user]
+	name = Bertrand Chardon
+	email = bertrand.chardon@gmail.com
+[alias]
+  ci = commit
+  co = checkout
+  st = status
+  sw = checkout
+  discard = checkout --
+[color]  
+  diff = auto
+  interactive = auto
+  status = auto
+  branch = auto
+[github]
+	user = Veejay
+	email = bertrand.chardon@gmail.com
+	token = 89d8838ef519ba679ae17d9726ff264f
